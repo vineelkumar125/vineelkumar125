@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:7f00ff&height=220&section=header&text=Mawa&fontSize=60&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:7f00ff&height=220&section=header&text=Vineelkumar &fontSize=60&fontColor=ffffff" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Hi+I'm+ Vineelkumar;Java+Developer;Frontend+Learner;Future+Full+Stack+Developer;Welcome+to+my+GitHub+Profile" />
