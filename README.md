@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Mawa;Java+Developer;Frontend+Learner;Future+Full+Stack+Developer;Welcome+to+my+GitHub+Profile" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Mawa</h1>
+<h1 align="center">Hi 👋, I'm Vineel kumar</h1>
 
 <h3 align="center">Java Developer | Frontend Learner | Full Stack Enthusiast</h3>
 
