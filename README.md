@@ -13,7 +13,7 @@
 ## 🚀 About Me
 
 - 🌱 Learning Java Full Stack Development
-- 💻 Working on Frontend Projects
+- 💻 Working on Frontend Projects 
 - 📚 Exploring JSP & Servlets
 - 🎯 Goal: Become a Full Stack Java Developer
 
